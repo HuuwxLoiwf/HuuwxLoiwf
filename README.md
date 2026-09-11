@@ -2,21 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:191414&height=220&section=header&text=Hi%20I'm%20HuuwxLoiwf&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/HuuwxLoiwf">
-    <img src="https://readme-typing-svg.demolab.com/?lines=💻+Developer;🚀+Learner;🎧+Spotify+Listener;🌱+Always+building+something+new&center=true&width=500&height=40&color=1DB954&vCenter=true&size=22" />
-  </a>
-</p>
-
----
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on personal and graduation projects
-- 🌱 Learning Web & Mobile Development
-- 💻 Interested in **React**, **Node.js**, **Flutter**, **Android**
-- 🗄️ Working with **PostgreSQL**, **MongoDB**, **Prisma**
-- 🚀 Always learning and building something new
+-  Currently working on personal and graduation projects
+-  Learning Web & Mobile Development
+-  Interested in **React**, **Node.js**, **Flutter**, **Android**
+-  Working with **PostgreSQL**, **MongoDB**, **Prisma**
+-  Always learning and building something new
 
 ---
 
@@ -28,7 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HuuwxLoiwf&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=1DB954&icon_color=1DB954&text_color=ffffff" />
