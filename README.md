@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 ### 🎧 Now Playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
--->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
