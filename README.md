@@ -44,7 +44,7 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&redirect=true">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&redirect=true)">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" />
   </a>
 </p>
