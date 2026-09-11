@@ -44,9 +44,9 @@
 ### 🎧 Now Playing on Spotify
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&redirect=true)">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" />
-  </a>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31erf5ouzye4pw3zqsnbpfl3umsi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 </p>
 
 > 💡 Tip: nếu muốn khoe **playlist** thay vì bài đang nghe, bạn có thể chèn thêm một Spotify embed playlist bên dưới (xem hướng dẫn cuối README).
@@ -56,9 +56,9 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://facebook.com/huuloi04"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://facebook.com/YOUR_LINK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/YOUR_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:huuloi686868@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
