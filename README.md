@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,androidstudio,postgres,mongodb,prisma,js,ts,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flutter,androidstudio,postgres,mongodb,prisma,git,vscode" />
 </p>
 
 ---
